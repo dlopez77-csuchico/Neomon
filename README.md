@@ -1,11 +1,12 @@
-# Project Name
+# Neomom
 
 Introduction - a brief summary of the general problem being studied and addressed
 
 ## Team Members
 
-* **Full Name 1** - Summary of contributions
-* **Full Name 2** - Summary of contributions
+* **Changsoo Jung** - Summary of contributions
+* **Daniel Lopez** - Summary of contributions
+* **Oliver Lynch** - Summary of contributions
 
 ## Phase 1: User Inquiry and Inspection
 
