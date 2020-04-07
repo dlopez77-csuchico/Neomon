@@ -12,31 +12,31 @@ For each method, describe the users you collected data from (demographics and ho
 *Over half of the participants tend to prepare when they go to grocery shopping.
 
 ![alt text](../assets/q2.png "Question2 img")
-*66% of participants responded that 11% to 20% of their food goes bad. Almost all participants tend to *leave that some of their food goes bad.
+* 66% of participants responded that 11% to 20% of their food goes bad. Almost all participants tend to *leave that some of their food goes bad.
 
 ![alt text](../assets/q3.png "Question3 img")
-*When almost all participants buy groceries, they don't care about them whether groceries are organic or not.
+* When almost all participants buy groceries, they don't care about them whether groceries are organic or not.
 
 ![alt text](../assets/q4.png "Question4 img")
-*Almost all participants want to eat expired foods if the foods didn't go bad.
+* Almost all participants want to eat expired foods if the foods didn't go bad.
 
 ![alt text](../assets/q5.png "Question5 img")
-*Over half of the participants don't use a grocery list.
+* Over half of the participants don't use a grocery list.
 
 ![alt text](../assets/q6.png "Question6 img")
-*Almost all participants shop for a small group of families.
+* Almost all participants shop for a small group of families.
 
 ![alt text](../assets/q7.png "Question7 img")
-*66% of participants don't use any recipes when they cooking.
+* 66% of participants don't use any recipes when they cooking.
 
 ![alt text](../assets/q8.png "Question8 img")
-*Over half of the participants don't know about their refrigerators are set at appropriate temperatures.
+* Over half of the participants don't know about their refrigerators are set at appropriate temperatures.
 
 ![alt text](../assets/q9.png "Question9 img")
-*77% of participants expected their groceries will be used for 5-7 days. 
+* 77% of participants expected their groceries will be used for 5-7 days. 
 
 ![alt text](../assets/q10.png "Question10 img")
-*Almost all participants don't want to get a result of our study.
+* Almost all participants don't want to get a result of our study.
 
 In addition, we found some dairy products, fruits, or groceries are usually expired and responders usually buy these items. One-third of the participants are fellowing Carnivorous diets.  
 
