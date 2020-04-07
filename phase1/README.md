@@ -1,4 +1,4 @@
-# Team Name, Phase 1: User Inquiry and Inspection
+# Neomom, Phase 1: User Inquiry and Inspection
 
 ## Methods
 
@@ -48,6 +48,8 @@ Discoveries derived from the method(s). For example, explain a requirement (e.g.
 ## Caveats
 
 Considerations and/or limitations to the method(s) you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc.
+
+Due to the COVID-19 outbreak, students were advised to stay indoors for the rest of the Spring 2020 semester. This also meant that human experiments are not allowed nor possible. As a result, we resorted to using mock data since it was the next best thing we had access to. 
 
 ## Personas
 
