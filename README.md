@@ -1,6 +1,7 @@
 # Neomom
 
-Introduction - a brief summary of the general problem being studied and addressed
+Grocery list app that will add purchased items into a pantry section with a countdown of how many days it has left if properly stored. The app will say the proper way to store it and give you recipe ideas for food that is about to go bad. It can also tell you not to buy something you always let go bad or buy less of it.
+
 
 ## Team Members
 
